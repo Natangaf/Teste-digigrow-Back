@@ -35,6 +35,7 @@
     "mongoose": "^8.5.2",
     "pg": "^8.10.0",
     "reflect-metadata": "^0.1.13",
+    "sprint5": "file:",
     "typeorm": "^0.3.6",
     "zod": "^3.21.4"
   }
