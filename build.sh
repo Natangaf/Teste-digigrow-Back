@@ -1,6 +1,12 @@
 #!/usr/bin/env bash
-# exit on error
+# Exit on error
 set -o errexit
 
+# Instalar dependências
 npm install
+
+# Compilar TypeScript
 npm run build
+
+# Iniciar a aplicação
+npm start
