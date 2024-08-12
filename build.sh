@@ -8,5 +8,3 @@ npm install
 # Compilar TypeScript
 npm run build
 
-# Iniciar a aplicação
-npm start
